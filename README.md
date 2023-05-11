@@ -29,3 +29,25 @@ En el momento de la recepción del paciente el responsable busca la reserva del 
 ## [Script](https://github.com/nicolas-palacio/pl-sql-practicas/blob/main/Saludable/script.sql)
 
 # Blog de noticias
+
+Se solicita diseñar un blog de noticias. Estas noticias serán creadas por usuarios
+registrados. Los usuarios también pueden comentar las noticias.
+
+- Cada usuario tiene un nombre, apellido, teléfono/s y nombre de usuario.
+- Opcionalmente los usuarios pueden registrar dirección con la siguiente
+  información:
+- - Calle
+- - Número
+- - Código Postal
+- - Ciudad
+- - País
+- Las noticias que se publican están formadas por:
+- - Un título,
+- - Un cuerpo --la noticia propiamente dicha--
+- - Una fecha de publicación.
+- - Pueden tener tags.
+- Las noticias reciben comentarios de los usuarios de la red. Se registra el usuario, comentario y fecha.
+
+## DER
+
+<img src="https://raw.githubusercontent.com/nicolas-palacio/pl-sql-practicas/main/Blog%20de%20noticias/DER%20Blog.jpg" alt="DER" width="800px" height="auto" />
