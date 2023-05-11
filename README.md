@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" alt="logo" width="200" height="auto" />
-  <h1>PL/PSQL</h1>
+  <h1>PL/SQL</h1>
 </div>
 
 ### Acerca del repositorio
