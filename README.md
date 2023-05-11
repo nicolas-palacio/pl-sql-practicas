@@ -20,10 +20,12 @@ En el momento de la recepción del paciente el responsable busca la reserva del 
 
 ## DER
 
-<img src="https://raw.githubusercontent.com/nicolas-palacio/pl-sql-practicas/main/Saludable/DER%20DIAGRAM.png" alt="DER" width="500px" height="auto" />
+<img src="https://raw.githubusercontent.com/nicolas-palacio/pl-sql-practicas/main/Saludable/DER%20DIAGRAM.png" alt="DER" width="800px" height="auto" />
 
 ## Modelo físico
 
-<img src="https://raw.githubusercontent.com/nicolas-palacio/pl-sql-practicas/main/Saludable/schema.png" alt="DER" width="500px" height="auto" />
+<img src="https://raw.githubusercontent.com/nicolas-palacio/pl-sql-practicas/main/Saludable/schema.png" alt="DER" width="800px" height="auto" />
 
 ## [Script](https://github.com/nicolas-palacio/pl-sql-practicas/blob/main/Saludable/script.sql)
+
+# Blog de noticias
