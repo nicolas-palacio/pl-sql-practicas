@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" alt="logo" width="200" height="auto" />
-  <h1>PL/SQL</h1>
+  <h1>PL/pgSQL</h1>
 </div>
 
 ### Acerca del repositorio
@@ -51,3 +51,5 @@ registrados. Los usuarios también pueden comentar las noticias.
 ## DER
 
 <img src="https://raw.githubusercontent.com/nicolas-palacio/pl-sql-practicas/main/Blog%20de%20noticias/DER%20Blog.jpg" alt="DER" width="800px" height="auto" />
+
+## [Script](https://github.com/nicolas-palacio/pl-sql-practicas/blob/main/Blog%20de%20noticias/script.sql)
